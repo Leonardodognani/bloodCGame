@@ -1,0 +1,28 @@
+body {
+    font-family: Stencil Std;
+    min-height: 500px;
+    background-image: url('https://i.imgur.com/7KODQP9.jpg');
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .container {
+    text-align: left;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin-left: 100px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+    margin-left: 10px;
+  }
+
+  
