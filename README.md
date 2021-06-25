@@ -1,5 +1,5 @@
 # Blood C Mini Game (unfinished!)
-## A mini game of the anime Blood C (unfinished!)
+## A mini game of the anime Blood C
 
 * mini jogo, projeto pessoal, apenas no início;
 * Aos poucos irei add gifs ou videos relativos a opções;
