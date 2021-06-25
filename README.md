@@ -1,4 +1,4 @@
-# Blood C Mini Game
+# Blood C Mini Game (unfinished!)
 ## A mini game of the anime Blood C
 
 * mini jogo, projeto pessoal, apenas no início;
